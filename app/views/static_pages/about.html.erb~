@@ -1,0 +1,4 @@
+<%=provide(:title,"About")%>
+<h1>This is about page!!</h1>
+
+<title><%=yield(:title)%>|Ruby on Rails Tutorial Sample App</title>
